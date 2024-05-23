@@ -1,7 +1,7 @@
 ### sugarshieldXL
 ##### case for shieldXL + PiSugarS plus
 
-<img src=https://raw.githubusercontent.com/roge-rm/sugarshieldXL/main/pictures/1.jpg width=400> <img src=https://raw.githubusercontent.com/roge-rm/sugarshieldXL/main/pictures/2.jpg width=400>
+<img src=https://raw.githubusercontent.com/roge-rm/sugarshieldXL/main/pictures/1.jpg width=600>
 
 <img src=https://raw.githubusercontent.com/roge-rm/sugarshieldXL/main/pictures/7.jpg width=100> <img src=https://raw.githubusercontent.com/roge-rm/sugarshieldXL/main/pictures/8.jpg width=100> <img src=https://raw.githubusercontent.com/roge-rm/sugarshieldXL/main/pictures/9.jpg width=100> <img src=https://raw.githubusercontent.com/roge-rm/sugarshieldXL/main/pictures/10.jpg width=100> <img src=https://raw.githubusercontent.com/roge-rm/sugarshieldXL/main/pictures/11.jpg width=100>
 
