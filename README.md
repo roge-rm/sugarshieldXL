@@ -6,7 +6,7 @@
 <img src=https://raw.githubusercontent.com/roge-rm/sugarshieldXL/main/pictures/7.jpg width=100> <img src=https://raw.githubusercontent.com/roge-rm/sugarshieldXL/main/pictures/8.jpg width=100> <img src=https://raw.githubusercontent.com/roge-rm/sugarshieldXL/main/pictures/9.jpg width=100> <img src=https://raw.githubusercontent.com/roge-rm/sugarshieldXL/main/pictures/10.jpg width=100> <img src=https://raw.githubusercontent.com/roge-rm/sugarshieldXL/main/pictures/11.jpg width=100>
 
 
-This is a case I designed for my shieldXL to add an internal battery. I had a couple of requirements: use the original shieldXL faceplate, add lots of extra cooling for the warm-running Raspberry Pi 4, and integrate the PiSugarS plus battery with as little increase in size as possible.
+This is a case I designed for my shieldXL to add an internal battery. I had a few requirements: use the original shieldXL faceplate, add lots of extra cooling for the warm-running Raspberry Pi 4, and integrate the PiSugarS plus battery with as little increase in size as possible.
 
 This project is **heavily** influenced by <a href=https://github.com/JGuzak/shieldXl_battery>jordo's ShieldXL battery case</a>. 
 
