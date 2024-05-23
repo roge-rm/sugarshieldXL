@@ -20,6 +20,8 @@ This project is **heavily** influenced by <a href=https://github.com/JGuzak/shie
 
 ### Assembly
 
+<img src=https://raw.githubusercontent.com/roge-rm/sugarshieldXL/main/pictures/5.jpg width=600>
+
 1. Print the housing in 0.3mm layer height or finer, any material you desire. <br>You can choose either the version <a href=https://github.com/roge-rm/sugarshieldXL/blob/main/stl/sugarshieldxl-1.0.stl>with<a/> an external switch or one <a href=https://github.com/roge-rm/sugarshieldXL/blob/main/stl/sugarshieldxl-1.0-noswitch.stl>without</a>.
 2. Remove the magnets from the PiSugar board and battery. Do whatever you want with them (don't eat them).
 3. Attach the JST-PH female connector to the PiSugar board, respecting the correct polarity. If using the standalone header instead of a pigtail I suggest you hold it down with some hot glue or something.
@@ -34,4 +36,10 @@ This project is **heavily** influenced by <a href=https://github.com/JGuzak/shie
 
 <img src=https://raw.githubusercontent.com/roge-rm/sugarshieldXL/main/pictures/4.jpg width=600>
 
-8. Solder the two hookup wires to the middle and one outer pole of the micro slide switch. 
+8. Solder the two hookup wires to the middle and one outer pole of the micro slide switch - this side of the switch is the **off** position.
+9. Mount the switch in the mounting position on the right side of the case using the 2 m1.4 srews.
+10. Install the faceplate using the screws provided with the shieldXL kit.
+11. Turn the little white power switch on the PiSugar board to the **on** position (slid towards the front of the housing), then you can use the external power switch to power the unit on.
+12. You're done!
+
+<img src=https://raw.githubusercontent.com/roge-rm/sugarshieldXL/main/pictures/6.jpg width=600>
