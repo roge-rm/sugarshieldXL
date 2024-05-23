@@ -40,7 +40,7 @@ This project is **heavily** influenced by <a href=https://github.com/JGuzak/shie
 <img src=https://raw.githubusercontent.com/roge-rm/sugarshieldXL/main/pictures/4.jpg width=600>
 
 8. Solder the two hookup wires to the middle and one outer pole of the micro slide switch - this side of the switch is the **off** position.
-9. Mount the switch in the mounting position on the right side of the case using the 2 m1.4 srews.
+9. Mount the switch in the mounting position on the right side of the case using the 2 m1.4 screws.
 10. Install the faceplate using the screws provided with the shieldXL kit.
 11. Turn the little white power switch on the PiSugar board to the **on** position (slid towards the front of the housing), then you can use the external power switch to power the unit on.
 12. You're done!
