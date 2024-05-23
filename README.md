@@ -14,7 +14,7 @@ This project is **heavily** influenced by <a href=https://github.com/JGuzak/shie
 * 3D printed housing, either <a href=https://github.com/roge-rm/sugarshieldXL/blob/main/stl/sugarshieldxl-1.0.stl>with</a> or <a href=https://github.com/roge-rm/sugarshieldXL/blob/main/stl/sugarshieldxl-1.0-noswitch.stl>without</a> external switch
 * 1 x JST-PH 2.0 female header (or pigtail)
 * 4 x m2.5x16mm bolts
-* 1 x micro slide rocket switch, 2 pole/3 pin (part SS12F15VG5)
+* 1 x micro slide rocker switch, 2 pole/3 pin (part SS12F15VG5)
 * 2 x m1.4 or m1.7 stainless screws (to mount switch)
 * hookup wire to attach external switch
 
