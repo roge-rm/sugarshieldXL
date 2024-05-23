@@ -28,14 +28,14 @@ This project is **heavily** influenced by <a href=https://github.com/JGuzak/shie
 1. Print the housing in 0.3mm layer height or finer, any material you desire. <br>You can choose either the version <a href=https://github.com/roge-rm/sugarshieldXL/blob/main/stl/sugarshieldxl-1.0.stl>with<a/> an external switch or one <a href=https://github.com/roge-rm/sugarshieldXL/blob/main/stl/sugarshieldxl-1.0-noswitch.stl>without</a>.
 2. Remove the magnets from the PiSugar board and battery. Do whatever you want with them (don't eat them).
 3. Attach the JST-PH female connector to the PiSugar board, respecting the correct polarity. If using the standalone header instead of a pigtail I suggest you hold it down with some hot glue or something.
-4. If you're using an external switch you'll want to solder two hookup wires to the CTRL and OFF pads on the PiSugarS board. See <https://github.com/PiSugar/PiSugar/wiki/PiSugarS-Plus>their wiki</a> for pictures if you need clarity.
+4. If you're using an external switch you'll want to solder two hookup wires to the CTRL and OFF pads on the PiSugarS board. See <a href=https://github.com/PiSugar/PiSugar/wiki/PiSugarS-Plus>their wiki</a> for pictures if you need clarity.
 5. Attach the PiSugar board to the back of the Raspberry Pi in a way that will hold it together until you can screw it in place inside the case. Two sided tape should work for this. <br>If you're really _brave_ (stupid) and you _bravely_ broke off one or more of the pogo pins.. you can knock the rest off and solder the PiSugar board to the Raspberry Pi directly. _You're so brave_ (not stupid).
 
 <img src=https://raw.githubusercontent.com/roge-rm/sugarshieldXL/main/pictures/3.jpg width=600>
 
 5. If you're using a female header instead of a pigtail you'll want to mount the battery as shown ahead of assembly. Two sided tape can be used to hold it in place against the backs of the audio ports. I'd also suggest a piece of tape in the housing where the battery will go.<br>If you used a proper pigtail you can just tape the battery down in the case near the front corner, under where the display will be.
 6. Slide the whole assembly into the housing at an angle, back end (audio ports) first. There is a cutout in the top of case, on the right side, that will allow the 3.5mm MIDI ports to fit. Magically feed the wires for the external switch through first/at the same time while also holding the battery in place and making sure it makes it to its home under the display. I find it easier to do this whole step upside down (turn the shieldXL assembly and housing upside down, not yourself).
-7. Attach the board to the bottom of the case with the m2.5x16mm bolts and thread the original faceplate standoff in the top right corner into place. 
+7. Attach the board to the bottom of the case with the m2.5x16mm bolts and thread the original faceplate standoff in the top left corner into place. 
 
 <img src=https://raw.githubusercontent.com/roge-rm/sugarshieldXL/main/pictures/4.jpg width=600>
 
